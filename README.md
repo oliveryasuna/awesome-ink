@@ -6,9 +6,7 @@
   </picture>
 </p>
 
-# Awesome Ink <!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
-
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Ink [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > Build interactive command-line interfaces with React components.
 
