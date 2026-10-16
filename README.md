@@ -6,30 +6,27 @@
   </picture>
 </p>
 
-# Awesome Ink [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
 > Build interactive command-line interfaces with React components.
 
-[Ink](https://github.com/vadimdemedes/ink) is a React renderer that targets the terminal. It uses the [Yoga](https://github.com/facebook/yoga) flexbox engine, so layout is expressed with the same CSS-like properties used on the web.
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
+Ink is a React renderer that targets the terminal. It uses the Yoga flexbox engine, so layout is expressed with the same CSS-like properties used on the web.
 
 ## Contents
 
-- [Awesome Ink ](#awesome-ink-)
-  - [Contents](#contents)
-  - [Getting Started](#getting-started)
-  - [Frameworks](#frameworks)
-  - [Component Libraries](#component-libraries)
-  - [Input Components](#input-components)
-  - [Display Components](#display-components)
-  - [Layout Components](#layout-components)
-  - [Feedback Components](#feedback-components)
-  - [Hooks](#hooks)
-  - [Utilities](#utilities)
-  - [Testing](#testing)
-  - [Applications](#applications)
-  - [Games](#games)
-  - [Underlying Libraries](#underlying-libraries)
-  - [Footnotes](#footnotes)
+- [Getting Started](#getting-started)
+- [Frameworks](#frameworks)
+- [Component Libraries](#component-libraries)
+- [Input Components](#input-components)
+- [Display Components](#display-components)
+- [Layout Components](#layout-components)
+- [Feedback Components](#feedback-components)
+- [Hooks](#hooks)
+- [Utilities](#utilities)
+- [Testing](#testing)
+- [Applications](#applications)
+- [Games](#games)
+- [Underlying Libraries](#underlying-libraries)
 
 ## Getting Started
 
@@ -121,7 +118,7 @@
 
 - [Inkle](https://github.com/jrr/inkle) - Word guessing game.
 - [Sea Trader](https://github.com/zyishai/sea-trader) - Taipan-inspired trading simulation.
-- [Sudoku](https://github.com/mrozio13pl/sudoku-in-terminal) - Sudoku.
+- [Sudoku](https://github.com/mrozio13pl/sudoku-in-terminal) - Terminal-based Sudoku game.
 - [mnswpr](https://github.com/mordv/mnswpr) - Minesweeper.
 
 ## Underlying Libraries
@@ -135,4 +132,4 @@
 
 ## Footnotes
 
-Package inventory originally derived from the Ink readme at <https://github.com/vadimdemedes/ink>. It may have deviated over time.
+Package inventory originally derived from the Ink readme. It may have deviated over time.
