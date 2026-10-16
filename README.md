@@ -8,6 +8,8 @@
 
 # Awesome Ink <!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 > Build interactive command-line interfaces with React components.
 
 [Ink](https://github.com/vadimdemedes/ink) is a React renderer that targets the terminal. It uses the [Yoga](https://github.com/facebook/yoga) flexbox engine, so layout is expressed with the same CSS-like properties used on the web.
